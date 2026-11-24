@@ -1,3 +1,39 @@
+JC3VR
+
+Developed by MeatyMold
+
+WARNING â€” NOT READY FOR PUBLIC USE
+
+JC3VR is currently in active development. This repository contains unfinished, experimental, and potentially broken code, including features and implementations that have not yet been tested.
+
+This is not an official playable release.
+
+There is no installer.
+
+There is no stable release.
+
+There is no guarantee that the current code will compile or function correctly.
+
+Features may be incomplete, broken, removed, or significantly changed throughout development.
+
+Support is not currently provided for development builds.
+
+About the Project
+
+JC3VR is an independent, fan-made project aiming to bring an immersive virtual reality experience to Just Cause 3, including stereoscopic rendering, six-degrees-of-freedom tracking, motion-controlled weapons, and VR vehicle interactions.
+
+Purpose of This Repository
+
+This repository has been made public primarily for development transparency, source code preservation, and backup purposes. Its availability does not indicate that the project is ready for public use.
+
+Public Release
+
+A playable build will be made available when it is ready. There is currently no confirmed release date.
+
+Development progress and release information will be shared when appropriate.
+
+---
+
 # JC3VR
 
 **An experimental, unfinished VR mod for Just Cause 3**, developed by **meaty mold**.
@@ -94,7 +130,7 @@ For removal, close JC3, move JC3VR's DLLs and INI out of the game folder, then r
 
 ## License and credits
 
-Original JC3VR contributions are available under the **MIT License**, copyright © 2026 **meaty mold**. The [third-party notices](THIRD_PARTY_NOTICES.md) preserve the licenses and attribution for MinHook, OpenXR, Philpax's JC3VR and engine-definition work, and format research.
+Original JC3VR contributions are available under the **MIT License**, copyright Â© 2026 **meaty mold**. The [third-party notices](THIRD_PARTY_NOTICES.md) preserve the licenses and attribution for MinHook, OpenXR, Philpax's JC3VR and engine-definition work, and format research.
 
 Development has included assistance from OpenAI Codex and Anthropic Claude. This project is an independent, unofficial mod. Just Cause 3 and its artwork belong to their respective owners. The MIT license applies to the code covered by it.
 
