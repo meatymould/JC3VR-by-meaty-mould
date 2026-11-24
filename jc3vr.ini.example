@@ -1,0 +1,33 @@
+[JC3VR]
+enabled=1
+debug_logging=1
+head_tracking=1
+# Rotational head-look is sent as normal relative mouse input only while JC3
+# owns the foreground. Tune the existing yaw/pitch scales if needed.
+positional_tracking=0
+world_scale=1.0
+# Native tracked-head translation. F2 recentres the current standing/seated
+# pose; tracking spikes are clamped before conversion into JC3 world units.
+six_dof=0
+six_dof_scale=1.0
+six_dof_limit_m=0.65
+recenter_key=F2
+motion_controllers=0
+debug_overlay=0
+shadow_probe=0
+head_yaw_scale=1.0
+head_pitch_scale=1.0
+camera_shake_scale=0.25
+# The confirmed rollback baseline. Leave these values in place unless an
+# independently staged first-person/stereo path is intentionally enabled.
+camera_mode=current_working
+stereo_mode=mono_debug
+show_body=1
+show_head_mesh=1
+near_clip=0.05
+native_stereo_rig_mode=center
+jc3_world_units_per_meter=1.0
+native_projection_override=0
+force_native_projection_buffer=0
+sync_native_view_projection=0
+native_camera_probe_enabled=0

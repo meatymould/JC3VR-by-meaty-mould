@@ -1,0 +1,10 @@
+{
+  "note": "Template only. Import/tune with the current Osiris GUI; setting names may change between releases.",
+  "stereo_source": "full_sbs_or_katanga",
+  "screen_shape": "sphere",
+  "head_tracking": "mouse_relative",
+  "head_tracking_axes": ["yaw", "pitch"],
+  "head_tracking_roll": false,
+  "initial_refresh_hz": 72,
+  "recenter_required": true
+}
