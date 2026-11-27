@@ -2,7 +2,7 @@ JC3VR
 
 Developed by MeatyMold
 
-WARNING â€” NOT READY FOR PUBLIC USE
+WARNING  NOT READY FOR PUBLIC USE
 
 JC3VR is currently in active development. This repository contains unfinished, experimental, and potentially broken code, including features and implementations that have not yet been tested.
 
